@@ -27,7 +27,7 @@ However, the management noticed a decline in their active users and revenue grow
 ### Plans
 ![Screenshot (53)](https://github.com/BhandariRitik/AtliQ_Telecom_Analysis_Power_BI/assets/175146421/d2816225-43bc-41be-b764-0e4302a1d0ae)
 
-### Insighs
+### Insights
 - Revenue declined by 0.50%, primarily in Delhi, Chennai, and Ahmedabad.
 - Revenue increased the most in Lucknow.
 - ARPU (Average Revenue Per User) rose from ₹190.2 to ₹211.3.
