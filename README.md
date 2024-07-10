@@ -35,5 +35,6 @@ However, the management noticed a decline in their active users and revenue grow
 - Total inactive users increased by 23.50%.
 - AtliQo holds 3rd place in market share.
 - The largest decline in active users was in Pune, despite a 0.37% increase in revenue.
+- P1, P11, and P2 are the highest revenue-generating plans.
 
 
