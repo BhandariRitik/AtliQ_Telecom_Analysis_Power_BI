@@ -1,7 +1,7 @@
 # AtliQo Telecom Analysis - PowerBI
 ##### This project is done as part of the November month codebaiscs resume project challenge
 - Challenge details - [Link](https://codebasics.io/challenge/codebasics-resume-project-challenge)
-- Interactive Dashboard - [Link](https://app.powerbi.com/view?r=eyJrIjoiNzIxY2Y4NWEtZjk5Mi00NWIyLWFiZjQtZmRlZTBhOTI2N2I3IiwidCI6IjZmZTcyMzY3LTU1NTAtNDUxYy1iYzA3LWY2OGY1NGE5NmUwMSJ9&pageName=bd03c9c08095f25ad90a)
+- Interactive Dashboard - [Link](https://app.powerbi.com/reportEmbed?reportId=3c81fc9b-7a16-42d9-9de7-68f935e49d97&autoAuth=true&ctid=6fe72367-5550-451c-bc07-f68f54a96e01)
 ### Problem Statement
 ##### AtliQo is one of the leading telecom providers in India and launched its 5G plans in May 2022 along with other telecom providers.
 
