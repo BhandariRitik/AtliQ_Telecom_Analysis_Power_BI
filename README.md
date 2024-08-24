@@ -16,16 +16,21 @@ However, the management noticed a decline in their active users and revenue grow
 
 ### KPI
 
-![Screenshot (56)](https://github.com/BhandariRitik/AtliQ_Telecom_Analysis_Power_BI/assets/175146421/d86d3208-a4fe-43f4-b1cc-2ed0c153c307)
+
+![Screenshot 2024-08-24 113814](https://github.com/user-attachments/assets/c8c9c817-65ac-4b49-968a-c054c22110d2)
+
+
 
 ### Market Share
 
 
-![Screenshot (51)](https://github.com/BhandariRitik/AtliQ_Telecom_Analysis_Power_BI/assets/175146421/ef705221-b1ca-4930-a39b-b032b5abe140)
+![Screenshot 2024-08-24 113039](https://github.com/user-attachments/assets/9f07f6b8-00a9-4fcd-a381-313f85b655f9)
+
 
 
 ### Plans
-![Screenshot (53)](https://github.com/BhandariRitik/AtliQ_Telecom_Analysis_Power_BI/assets/175146421/d2816225-43bc-41be-b764-0e4302a1d0ae)
+![Screenshot 2024-08-24 113059](https://github.com/user-attachments/assets/ef01f302-46c7-4776-99bc-f40bda78d2eb)
+
 
 ### Insights
 - Revenue declined by 0.50%, primarily in Delhi, Chennai, and Ahmedabad.
